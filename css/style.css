@@ -1023,7 +1023,8 @@ body.offcanvas {
       transform: translate3d(0, 0, 0); }
 
 .btn-load-more {
-  width: 100%; }
+    width: 100%;
+    margin: 20px; }
 
 #colorlib-counter {
   position: relative;
@@ -1427,3 +1428,14 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+.year-title {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin: 20px;
+}
+.certificate-list {
+    list-style: none;
+    margin: 20px;
+    padding: 0;
+}
+.certificate-list li {margin: 5px 0; }
