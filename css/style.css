@@ -945,7 +945,7 @@ body.offcanvas {
       transition: 0.3s; }
   .award-entry .desc h3 {
     font-size: 16px;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
     line-height: auto;
     font-weight: 500;
     text-transform: uppercase;
@@ -956,7 +956,7 @@ body.offcanvas {
       text-decoration: none; }
   .award-entry .desc span {
     display: block;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-size: 12px;
     color: rgba(0, 0, 0, 0.4) !important;
     text-transform: uppercase;
